@@ -1,7 +1,7 @@
 # Multiple-Linear-Regression
-Multiple Linear Regression with scikit-learn.
+Multiple Linear Regression with __scikit-learn__.
 
-In this project, I will build and evaluate multiple linear regression models using Python. I will use scikit-learn to calculate the regression, while using pandas for data management and seaborn for plotting. The data for this project consists of the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
+In this project, I will build and evaluate multiple linear regression models using Python. I will use __scikit-learn__ to calculate the regression, while using __pandas__ for data management and __seaborn__ for plotting. The data for this project consists of the very popular __Advertising dataset__ to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
 
 ### The key objective of this project is to learn the following skills:
 - Build univariate and multivariate linear regression models using scikit-learn
@@ -10,10 +10,10 @@ In this project, I will build and evaluate multiple linear regression models usi
 -	Model interaction effects in regression using basic feature engineering techniques
 
 ### Below is the summary of the tasks performed in this project:
-- Task 1: Importing Libraries
-- Task 2: Load the Data
-- Task 3: Relationship between Features and Response
-- Task 4: Multiple Linear Regression - Estimating Coefficients
-- Task 5: Feature Selection
-- Task 6: Model Evaluation Using Train/Test Split and Metrics
-- Task 7: Interaction Effect (Synergy)
+- __Task 1:__ Importing Libraries
+- __Task 2:__ Load the Data
+- __Task 3:__ Relationship between Features and Response
+- __Task 4:__ Multiple Linear Regression - Estimating Coefficients
+- __Task 5:__ Feature Selection
+- __Task 6:__ Model Evaluation Using Train/Test Split and Metrics
+- __Task 7:__ Interaction Effect (Synergy)
